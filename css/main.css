@@ -9,6 +9,16 @@ body {
     font-size: 1.2rem;
     line-height: 1.4;
     background-color: whitesmoke;
+    text-align : start;
+    background-image: url(img/apple-touch-icon.png);
+}
+
+footer {
+    padding : auto;
+}
+
+header {
+    margin : auto;
 }
 
 img {
@@ -24,12 +34,13 @@ a {
 
 p {
     color: darkmagenta;
+    font-size : 1.5em;
 }
 
 h1 {
-    font-size : 12;
+    font-size : 12px;
 }
 
 h2 {
-    
+    font-size : 1.5rem;
 }
