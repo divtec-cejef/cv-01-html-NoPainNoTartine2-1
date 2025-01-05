@@ -14,17 +14,23 @@ body {
 }
 
 footer {
-    padding : auto;
+    padding: 20px;
 }
 
 header {
-    margin : auto;
+    margin: 20px;
 }
 
 img {
+    box-shadow: 4px 4px 10px greenyellow;
+    border: 2px dashed greenyellow;
     max-width: 100%;
     height: auto;
     width: auto;
+}
+
+a:hover {
+color: pink;      
 }
 
 a {
