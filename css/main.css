@@ -45,9 +45,11 @@ a {
 }
 
 h1 {
-    font-size : 12px;
+    font-size: 12px;
+    color: deepblue;
 }
 
 h2 {
-    font-size : 1.5rem;
+    font-size: 1.5rem;
+    color: darkblue;
 }
