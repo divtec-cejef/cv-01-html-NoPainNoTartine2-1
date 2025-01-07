@@ -1,6 +1,7 @@
 
 * {
     box-sizing: border-box;
+    justify-content: center;
     align-item: center;
 }
 
@@ -13,8 +14,6 @@ body {
     text-align: start;
     background-image: url(img/apple-touch-icon.png);
     max-width: 800px;
-   justify-content: center; 
-   align-items: center;  
     color: darkmagenta;
     font-size: 1.5em;
 }
@@ -25,11 +24,11 @@ footer {
 
 header {
     margin: 20px;
-}
+}    
 
 img {
-    box-shadow: 4px 4px 10px greenyellow;
-    border: 2px dashed greenyellow;
+    box-shadow: 4px 4px 10px red;
+    border: 2px dashed red;
     max-width: 100%;
     height: auto;
     width: auto;
